@@ -1,0 +1,23 @@
+
+
+**Project Name:** Audio Steganography with Security Enhancements
+**Developed By:** TEAM 33
+
+**Team Members:**
+
+* [va2337102@gmail.com](mailto:va2337102@gmail.com)
+* [kalidindi.ankitha@gmail.com](mailto:kalidindi.ankitha@gmail.com)
+* [saisanjanachowdary@gmail.com](mailto:saisanjanachowdary@gmail.com)
+* [23r11a05l0@gcet.edu.in](mailto:23r11a05l0@gcet.edu.in)
+* [contact@suprajatechnologies.com](mailto:contact@suprajatechnologies.com)
+
+**Supervisor:** SANTHOSH CHALUVADI
+**Company:** Supraja Technologies
+**Year:** 2025
+
+**Context:**
+This project focuses on secure communication by embedding hidden messages within audio files using steganography techniques.
+It allows users to store, share, and retrieve these audio files securely, with features like email sharing, format compatibility, and password protection.
+It is designed to be a robust tool for individuals and organizations requiring discreet and reliable message transmission.
+
+
